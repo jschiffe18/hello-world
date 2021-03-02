@@ -1,2 +1,4 @@
 # hello-world
-This is an introduction to git repositories!
+Hello Humans!
+
+Jamie here, I am a professor of Bioinformatics
